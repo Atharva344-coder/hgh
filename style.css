@@ -1,0 +1,19 @@
+body{
+    background: #cacfc6;
+}
+.header_div{
+    background: #9da2a2;
+    color: rgb(241, 238, 238);
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
